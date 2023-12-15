@@ -3,7 +3,7 @@
 
 I love learning languages and frames like Django. I also engage in ML and DS plus AI.
 
-Skills: HTML | CSS | Bootstrap | JavaScript | Python | Django | ML 
+Skills: HTML | CSS | Bootstrap | UI design | Graphic Desgin | JavaScript | Python | Django | ML 
 
 - 🔭 I’m currently working on deep learning for as audio processing. 
 - 🌱 I’m currently learning Tensorflow and Keras API. 
