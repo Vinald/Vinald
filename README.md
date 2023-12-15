@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Vinald
 #### I am a Python programmer
-![I am a Python programmer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I love learning languages and frames like Django. I also engage in ML and DS plus AI.
 
