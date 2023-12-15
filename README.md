@@ -14,9 +14,6 @@ Skills: HTML | CSS | Bootstrap | JavaScript | Python | Django | ML
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Vinald )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/okirorsamuelvinald/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/osamuelvinald)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@osamuelvinald)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinald &show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/Vinald )  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Vinald )  
 
