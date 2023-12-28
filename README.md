@@ -5,7 +5,7 @@ I love learning languages and frames like Django. I also engage in ML and DS plu
 
 Skills: HTML | CSS | Bootstrap | UI design | Graphic Desgin | JavaScript | Python | Django | ML 
 
-- 🔭 I’m currently working on deep learning for as audio processing. 
+- 🔭 I’m currently working on Luganda voice-controlled system. 
 - 🌱 I’m currently learning Tensorflow and Keras API. 
 - 📫 How to reach me: okiror1vinald@gmail.com 
 - ⚡ Fun fact: Programming is a journey, you just need to take steps. 
