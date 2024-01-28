@@ -1,12 +1,12 @@
 ### Hi there 👋, my name is Vinald
-#### I am a Python programmer
+#### I am a Computer Engineer
 
-I love learning languages and frames like Django. I also engage in ML and DS plus AI.
+I love learning and I engage myself in Python Programming, Machine Learning, Web Development, and Embedded Systems.
 
-Skills: HTML | CSS | Bootstrap | UI design | Graphic Desgin | JavaScript | Python | Django | ML 
+Skills: HTML | CSS | JavaScript | Bootstrap | UI design | Graphic Desgin  | Python | Django | Deep Learning |  
 
-- 🔭 I’m currently working on Luganda voice-controlled system. 
-- 🌱 I’m currently learning Tensorflow and Keras API. 
+- 🔭 I’m currently working on Luganda voice-controlled wheelchair system. 
+- 🌱 I’m currently learning Deep Learning for Audio. 
 - 📫 How to reach me: okiror1vinald@gmail.com 
 - ⚡ Fun fact: Programming is a journey, you just need to take steps. 
 
