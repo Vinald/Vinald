@@ -1,12 +1,17 @@
-### Hi there 👋, my name is Vinald
+### Hi there 👋, my name is Okiror Samuel Vinald
 #### I am a Computer Engineer
 
-I love learning and I engage myself in Python Programming, Machine Learning, Web Development, and Embedded Systems.
+I love learning and I engage myself in Python Programming, Machine Learning, Data Science, Web Development, and Embedded Systems.
 
-Skills: HTML | CSS | JavaScript | Bootstrap | UI design | Graphic Desgin  | Python | Django | Deep Learning |  
+### Skills: 
+HTML | CSS | JavaScript | Bootstrap | Graphic Desgin  | Python | Django | Machine Learning | Data Science
 
-- 🔭 I’m currently working on Luganda voice-controlled wheelchair system. 
-- 🌱 I’m currently learning Deep Learning for Audio. 
+### Soft Skills
+Adaptability | Time Management | Teamwork | Problem-Solving | Communication | Fast Learner
+    
+
+- 🔭 I’m currently working on fine tuning my skills in web development using react for FrontEnd and django for BackEnd. 
+- 🌱 I’m currently learning Data Science as a new skill on top of Machine Learning. 
 - 📫 How to reach me: okiror1vinald@gmail.com 
 - ⚡ Fun fact: Programming is a journey, you just need to take steps. 
 
