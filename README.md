@@ -5,7 +5,7 @@ I love learning and I engage myself in Python Programming, Data Science, Web Dev
 My future interests after setting a foundation in software development is Networking and Cybersecurity journey.
 
 ### Skills: 
-HTML | CSS | Bootstrap | Python | Django | JavaScript | React | Nodejs | Next.js | GMachine Learning | Data Science
+HTML | CSS | Bootstrap | Python | Django | JavaScript | React | Nodejs | Next.js | Machine Learning | Data Science
 
 ### Soft Skills
 Problem-Solving | Adaptability  | Teamwork | Communication | Quick Learner | Time Management
