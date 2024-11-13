@@ -13,7 +13,7 @@ Problem-Solving | Adaptability  | Teamwork | Communication | Quick Learner | Tim
 
 - 🔭 I’m currently working on fine tuning my skills in both front-end and back-end web development. 
 - 🌱 I’m currently learning JavaScript frameworks (Nodejs and React) and also Python (django). 
-- 📫 How to reach me: okiror1vinald@gmail.com | +256 757 684 309
+- 📫 How to reach me: okiror1vinald@gmail.com | +256 746 178 844
 - ⚡ Fun fact: Programming is a journey, you just need to take steps. 
 
 
