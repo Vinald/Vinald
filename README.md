@@ -60,13 +60,6 @@ I am a passionate Computer Engineer and Software Developer with a keen interest 
 🔸 Quick Learner
 🔸 Time Management
 
-![Problem-Solving](https://img.shields.io/badge/Problem--Solving-blue?style=for-the-badge&logo=problem-solving&logoColor=white)
-![Adaptability](https://img.shields.io/badge/Adaptability-green?style=for-the-badge&logo=adaptability&logoColor=white)
-![Teamwork](https://img.shields.io/badge/Teamwork-orange?style=for-the-badge&logo=teamwork&logoColor=white)
-![Communication](https://img.shields.io/badge/Communication-red?style=for-the-badge&logo=communication&logoColor=white)
-![Quick Learner](https://img.shields.io/badge/Quick--Learner-purple?style=for-the-badge&logo=quick-learner&logoColor=white)
-![Time Management](https://img.shields.io/badge/Time--Management-yellow?style=for-the-badge&logo=time-management&logoColor=white)
-
 ### Am currently learning
 
 🔸 Backend Development
