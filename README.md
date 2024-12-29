@@ -3,9 +3,9 @@
 I am a passionate Computer Engineer and Software Developer with a keen interest in Web Development, Machine Learning, Networking, and Cybersecurity. I thrive on continuous learning and actively engage in Python Programming, Data Science, Web Development, and Embedded Systems. My future aspirations include delving deeper into Networking and Cybersecurity to build a robust foundation in these fields.
 
 ## Contact Me
-
-📫 Email: [okiror1vinald@gmail.com](mailto:okiror1vinald@gmail.com)  
-📞 Phone: +256 746 178 844
+📫 **Email**: [okiror1vinald@gmail.com](mailto:okiror1vinald@gmail.com)  
+📞 **Phone**: +256 746 178 844  
+🌐 **Portfolio**: [https://vinald.github.io](https://vinald.github.io)
 
 ## Languages
 
