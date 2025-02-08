@@ -41,13 +41,11 @@ I am a passionate Computer Engineer and Software Developer with a keen interest 
 
 🔸 Software Development
 🔸 Machine Learning
-🔸 Web Development
 🔸 Data Science
 🔸 Embedded Systems
 
 ![Software Development](https://img.shields.io/badge/Software--Development-blue?style=for-the-badge&logo=software-development&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine--Learning-orange?style=for-the-badge&logo=machine-learning&logoColor=white)
-![Web Development](https://img.shields.io/badge/Web--Development-green?style=for-the-badge&logo=web-development&logoColor=white)
 ![Data Science](https://img.shields.io/badge/Data--Science-red?style=for-the-badge&logo=data-science&logoColor=white)
 ![Embedded Systems](https://img.shields.io/badge/Embedded--Systems-purple?style=for-the-badge&logo=embedded-systems&logoColor=white)
 
