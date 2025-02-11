@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Samuel
 
-I am a passionate Computer Engineer and Software Developer with a keen interest in Web Development, Machine Learning, Networking, and Cybersecurity. I thrive on continuous learning and actively engage in Python Programming, Data Science, Web Development, and Embedded Systems. My future aspirations include delving deeper into Networking and Cybersecurity to build a robust foundation in these fields.
+I am a passionate Computer Engineer and Software Developer with a keen interest in Web and Mobile App Development, Machine Learning and Generrative AI. I thrive on continuous learning and actively engage in Python, Java and Kotlin Programming, Machine Learning & AI, Web Development, and Mobile App Development. My future aspirations include delving deeper into Networking and Cybersecurity to build a robust foundation in these fields.
 
 ## Contact Me
 📫 **Email**: [okiror1vinald@gmail.com](mailto:okiror1vinald@gmail.com)  
@@ -10,42 +10,40 @@ I am a passionate Computer Engineer and Software Developer with a keen interest 
 ## Languages
 
 🔸 Python
-🔸 Java
 🔸 JavaScript
-🔸 HTML
-🔸 CSS
 🔸 SQL
+🔸 Java
+🔸 Kotlin
 
 ![Python](https://img.shields.io/badge/Python-red?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)  
 
 ## Frame works
 
-🔸 Bootstrap
 🔸 React
 🔸 Nodejs
 🔸 Django
 🔸 Spring
+🔸 Bootstrap
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## Domains
 
 🔸 Software Development
-🔸 Machine Learning
+🔸 Machine Learning & AI
 🔸 Data Science
 🔸 Embedded Systems
 
 ![Software Development](https://img.shields.io/badge/Software--Development-blue?style=for-the-badge&logo=software-development&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine--Learning-orange?style=for-the-badge&logo=machine-learning&logoColor=white)
+![Machine Learning & AI](https://img.shields.io/badge/Machine--Learning%20%7C%20AI-orange?style=for-the-badge&logo=machine-learning&logoColor=white)
 ![Data Science](https://img.shields.io/badge/Data--Science-red?style=for-the-badge&logo=data-science&logoColor=white)
 ![Embedded Systems](https://img.shields.io/badge/Embedded--Systems-purple?style=for-the-badge&logo=embedded-systems&logoColor=white)
 
@@ -62,7 +60,7 @@ I am a passionate Computer Engineer and Software Developer with a keen interest 
 
 🔸 Backend Development
 🔸 Mobile App Development
-🔸 Artificial Intelligence
+🔸 Generative AI
 
 ⚡ I am committed to expanding my knowledge and skills to stay at the forefront of technological advancements.
 
