@@ -39,13 +39,9 @@ I am a passionate Computer Engineer and Software Developer with a keen interest 
 
 🔸 Software Development
 🔸 Machine Learning & AI
-🔸 Data Science
-🔸 Embedded Systems
 
 ![Software Development](https://img.shields.io/badge/Software--Development-blue?style=for-the-badge&logo=software-development&logoColor=white)
 ![Machine Learning & AI](https://img.shields.io/badge/Machine--Learning%20%7C%20AI-orange?style=for-the-badge&logo=machine-learning&logoColor=white)
-![Data Science](https://img.shields.io/badge/Data--Science-red?style=for-the-badge&logo=data-science&logoColor=white)
-![Embedded Systems](https://img.shields.io/badge/Embedded--Systems-purple?style=for-the-badge&logo=embedded-systems&logoColor=white)
 
 ## Soft Skills
 
@@ -59,7 +55,7 @@ I am a passionate Computer Engineer and Software Developer with a keen interest 
 ### Am currently learning
 
 🔸 Backend Development
-🔸 Mobile App Development
+🔸 Mobile App Development (Kotlin and ReactNative)
 🔸 Generative AI
 
 ⚡ I am committed to expanding my knowledge and skills to stay at the forefront of technological advancements.
