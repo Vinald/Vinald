@@ -41,6 +41,11 @@ I am a passionate Computer Engineer and Software Developer with a keen interest 
 ![Software Development](https://img.shields.io/badge/Software--Development-blue?style=for-the-badge&logo=software-development&logoColor=white)
 ![Machine Learning & AI](https://img.shields.io/badge/Machine--Learning%20%7C%20AI-orange?style=for-the-badge&logo=machine-learning&logoColor=white)
 
+## I am familiar with 
+🔸 PHP and Laravel
+🔸 NodeJS
+
+
 ## Soft Skills
 
 🔸 Problem-Solving
@@ -52,9 +57,9 @@ I am a passionate Computer Engineer and Software Developer with a keen interest 
 
 ### Am currently learning
 
-🔸 Backend Development
+🔸 Backend Development (Django and SrpingBoot)
 🔸 Mobile App Development (Kotlin and ReactNative)
-🔸 Generative AI
+🔸 LLMs and Generative AI
 
 ⚡ I am committed to expanding my knowledge and skills to stay at the forefront of technological advancements.
 
