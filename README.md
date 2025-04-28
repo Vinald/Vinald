@@ -25,11 +25,13 @@ I am a passionate Computer Engineer and Software Developer with a keen interest 
 
 🔸 React
 🔸 Django
+🔸 NodeJS
 🔸 Spring
 🔸 Bootstrap
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
@@ -43,7 +45,7 @@ I am a passionate Computer Engineer and Software Developer with a keen interest 
 
 ## I am familiar with 
 🔸 PHP and Laravel
-🔸 NodeJS
+🔸 Flask
 
 
 ## Soft Skills
