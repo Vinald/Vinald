@@ -106,10 +106,6 @@
   </div>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinald&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%">
-</div>
-
 <div align="center" style="margin-b📞 **Phone**: +256 746 178 844  
 ottom: 20px;">
   <img src="https://github-profile-trophy.vercel.app/?username=vinald&theme=onedark&row=2&column=4&no-frame=true&margin-w=15" alt="GitHub Trophies">
