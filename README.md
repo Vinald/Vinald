@@ -96,16 +96,8 @@ I build modern, responsive, and performant mobile apps for Android using:
 
 <div align="center">
   <a href="https://github.com/vinald">
-    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=vinald&show_icons=true&theme=tokyonight&layout=compact" width="48%" alt="GitHub Stats">
-  </a>
-  <a href="https://github.com/vinald">
-    <img height="190em" src="https://streak-stats.demolab.com?user=vinald&theme=tokyonight&show_border=true" width="48%" alt="GitHub Streak">
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/vinald">
-    <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vinald&layout=compact&langs_count=8&theme=merko" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vinald&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vinald&layout=compact&langs_count=8&theme=radical" alt="GitHub Stats"/>
   </a>
 </div>
 
