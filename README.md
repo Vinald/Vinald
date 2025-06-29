@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I am Vinald Samuel Okiror</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=2E9FD1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Mobile+App+Developer;Machine+Learning;Generative+AI;Problem+Solver;Quick+Learner;Cybersecurity+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=2E9FD1&center=true&vCenter=true&width=600&lines=Software+Developer;Full+Stack+Developer;Mobile+App+Developer;Machine+Learning+&&+AI;Problem+Solver;Quick+Learner" alt="Typing SVG" />
 </div>
 
 > Innovative Software Developer with a passion for Web and Mobile App Development, Machine Learning, and Generative AI.  
@@ -21,6 +21,13 @@
   </a>
 </div>
 
+<div align="center">
+  <a href="https://github.com/vinald">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vinald&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vinald&layout=compact&langs_count=12&theme=radical" alt="GitHub Stats"/>
+  </a>
+</div>
+
 ---
 
 ## 💻 Languages
@@ -32,7 +39,6 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 
----
 
 ## 🛠 Frameworks and Libraries
 
@@ -44,31 +50,14 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
----
 
 ## 📱 Mobile Applications
-
-I build modern, responsive, and performant mobile apps for Android using:
-
-- **Kotlin** – Native Android development
-- **Java** – Legacy and hybrid apps
-- **React Native** – Cross-platform mobile app development
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
----
-
-## 🚀 Domains
-
-![Software Development](https://img.shields.io/badge/Software--Development-blue?style=for-the-badge&logo=software-development&logoColor=white)
-![Machine Learning & AI](https://img.shields.io/badge/Machine--Learning%20%7C%20AI-orange?style=for-the-badge&logo=machine-learning&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-red?style=for-the-badge&logo=cybersecurity&logoColor=white)
-
-
----
 
 ## 🤝 Soft Skills
 
@@ -92,30 +81,12 @@ I build modern, responsive, and performant mobile apps for Android using:
 
 ---
 
-## 📊 My GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/vinald">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vinald&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vinald&layout=compact&langs_count=12&theme=radical" alt="GitHub Stats"/>
-  </a>
-</div>
-
----
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vinald&theme=onedark&row=2&column=4&no-frame=true&margin-w=15" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=vinald&theme=onedark&row=2&column=8&no-frame=true&margin-w=15" alt="GitHub Trophies">
 </div>
-
----
-
-## 📞 Contact
-
-**Phone**: +256 746 178 844  
-**Email**: [okiror1vinald@gmail.com](mailto:okiror1vinald@gmail.com)  
-**Portfolio**: [vinald.github.io](https://vinald.github.io)
 
 ---
 
