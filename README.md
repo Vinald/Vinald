@@ -76,8 +76,13 @@
 - 🔹 Mobile Development (Kotlin, React Native)  
 - 🔹 LLMs and Generative AI  
 
-> ⚡ I am committed to expanding my knowledge to stay at the forefront of technological advancements.  
+> ⚡ I am committed to expanding my knowledge to stay at the forefront of technological advancements.
+
+---
+
 > 💡 **Fun Fact:** Programming is a journey—you just need to take one step at a time.
+
+> *“Build, break, learn, repeat — that’s how you grow as a developer.”*
 
 ---
 
@@ -85,11 +90,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vinald&theme=onedark&row=2&column=8&no-frame=true&margin-w=15" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=vinald&theme=onedark&row=2&column=6&no-frame=true&margin-w=15" alt="GitHub Trophies">
 </div>
 
----
-
-> *“Build, break, learn, repeat — that’s how you grow as a developer.”*
- 
 ---
