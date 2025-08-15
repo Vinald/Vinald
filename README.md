@@ -8,7 +8,6 @@
 > I thrive on continuous learning and actively engage in Python, Java, JavaScript, and Kotlin programming.  
 > I'm building a strong foundation in Networking and Cybersecurity alongside my development journey.
 
-
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 50px;">
   <a href="mailto:okiror1vinald@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
@@ -24,7 +23,7 @@
 <div align="center">
   <a href="https://github.com/vinald">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vinald&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vinald&layout=compact&langs_count=12&theme=radical" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vinald&layout=compact&langs_count=12&theme=radical" alt="GitHub Top Languages"/>
   </a>
 </div>
 
@@ -37,38 +36,43 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 
+---
 
 ## 🛠 Frameworks and Libraries
 
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
+---
 
 ## 📱 Mobile Applications
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+---
+
+## 🔌 APIs
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+---
 
 ## 🤝 Soft Skills
 
-🔸 Problem-Solving
-🔸 Adaptability
-🔸 Teamwork
-🔸 Communication
-🔸 Quick Learner
-🔸 Time Management
+🔸 Problem-Solving  
+🔸 Adaptability  
+🔸 Teamwork  
+🔸 Communication  
+🔸 Quick Learner  
+🔸 Time Management  
 
 ---
 
@@ -82,17 +86,13 @@
 
 ---
 
-> 💡 **Fun Fact:** Programming is a journey—you just need to take one step at a time.
-
+> 💡 **Fun Fact:** Programming is a journey—you just need to take one step at a time.  
 > *“Build, break, learn, repeat — that’s how you grow as a developer.”*
 
 ---
-
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vinald&theme=onedark&row=2&column=6&no-frame=true&margin-w=15" alt="GitHub Trophies">
 </div>
-
----
