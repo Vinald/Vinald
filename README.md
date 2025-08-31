@@ -5,9 +5,9 @@
 </div>
 
 <p align="center">
-🚀 Passionate Software Developer exploring <b>Web & Mobile Development, Machine Learning, and Generative AI</b>.  
-💻 Skilled in Python, Java, Kotlin, JavaScript, and TypeScript.  
-🔐 Building strong foundations in <b>Networking & Cybersecurity</b>.
+🚀 Software Developer exploring <b>Web & Mobile Development</b>, <b>Machine Learning</b>, and <b>Generative AI</b>.  
+💻 Skilled in <b>Python, Java, Kotlin, JavaScript, TypeScript</b>.  
+🔐 Building foundations in <b>Networking & Cybersecurity</b>.  
 </p>
 
 <div align="center">
@@ -38,7 +38,6 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white)
 
@@ -57,12 +56,7 @@
 
 **🤖 ML & AI**  
 
-![TF](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF1493?style=for-the-badge&logo=ai&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-000000?style=for-the-badge&logo=openai&logoColor=white)
-![Gen AI](https://img.shields.io/badge/Generative_AI-FF4500?style=for-the-badge&logo=openai&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-1D72B8?style=for-the-badge&logo=tableau&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF1493?style=for-the-badge&logo=ai&logoColor=white) ![LLM](https://img.shields.io/badge/LLM-000000?style=for-the-badge&logo=openai&logoColor=white) ![Generative AI](https://img.shields.io/badge/Generative_AI-FF4500?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
