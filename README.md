@@ -27,8 +27,8 @@
 ## 🏆 GitHub Trophies and Stats
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinald&theme=radical" alt="Profile Details" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vinald&theme=radical&langs_count=10" alt="Top Languages"/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinald&theme=radical" alt="Profile Details" />
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vinald&theme=radical&langs_count=10" alt="Top Languages"/>
 </div>
 
 <p align="center">
