@@ -18,8 +18,8 @@
 
 ## 🛠️ Tech Stack
 **Languages:** Python • Java • Kotlin • JavaScript • TypeScript  
-**Web:** React • Next.js • Node.js • Django • Spring Boot • FastAPI  
-**Mobile:** Kotlin • React Native • Flutter  
+**Web:** React • Next.js • React • Django & Django RestFramework • Spring Boot • FastAPI  
+**Mobile:** Kotlin • Flutter  
 **Databases:** PostgreSQL • MongoDB • MySQL  
 
 ---
@@ -38,7 +38,7 @@
 ---
 
 ## 📚 Currently Learning
-Backend (Django, Spring Boot, FastAPI) • Mobile (Kotlin, Flutter)
+Backend (Spring Boot, FastAPI) • Mobile (Flutter)
 
 ---
 
