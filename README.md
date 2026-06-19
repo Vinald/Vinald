@@ -18,7 +18,7 @@
 
 ## 🛠️ Tech Stack
 **Languages:** Python • Java • Kotlin • JavaScript • TypeScript  
-**Web:** React • Next.js • React • Django & Django RestFramework • Spring Boot • FastAPI  
+**Web:** React • Next.js • Django & DjangoRest Framework • Spring Boot • FastAPI  
 **Mobile:** Kotlin • Flutter  
 **Databases:** PostgreSQL • MongoDB • MySQL  
 
