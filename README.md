@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I am Vinald Samuel Okiror</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=2E9FD1&center=true&vCenter=true&width=600&lines=Computer+Enginer;Software+Developer;Full+Stack+Engineer;Mobile+App+Developer;Web+App+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=2E9FD1&center=true&vCenter=true&width=600&lines=Computer+Engineer;Software+Developer;Full+Stack+Engineer;Mobile+App+Developer;Web+App+Developer" alt="Typing SVG" />
 </div>
 
 <p align="center">
